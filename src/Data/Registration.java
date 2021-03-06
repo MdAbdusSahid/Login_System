@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class Registration extends javax.swing.JFrame {
 
