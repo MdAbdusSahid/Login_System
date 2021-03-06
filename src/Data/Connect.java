@@ -7,7 +7,7 @@ package Data;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class Connect {
     
